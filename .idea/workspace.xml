@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bff2e763-b84a-4e53-911d-85306d1e5730" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htaccess.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/Bridge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/controllers/Home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/core/App.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/core/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/core/DB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/htaccess.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/models/SinhVienModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/views/aodep.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/views/aoxau.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/views/pages/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc/views/pages/news.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/htaccess.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2j0HKDHoaqsVjUE3yWYjTBJFxqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/xampp/htdocs/banvanphongpham"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bff2e763-b84a-4e53-911d-85306d1e5730" name="Changes" comment="" />
+      <created>1720517007483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720517007483</updated>
+    </task>
+    <servers />
+  </component>
+</project>
